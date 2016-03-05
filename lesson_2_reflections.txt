@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+		It shows my folder directory address and shows no traces of files.This must be done
+		to initialize a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+		By showing what are the commits to be done and what are the commits are done.
